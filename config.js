@@ -47,7 +47,7 @@ module.exports = {
 
     // ===== BOT BEHAVIOR & APPEARANCE =====
     DESCRIPTION: process.env.DESCRIPTION || "*© ᴘᴏᴡᴇʀᴇᴅ ʙʏ ᴍʀ ғʀᴀɴᴋ*",  // Bot description
-    PUBLIC_MODE: process.env.PUBLIC_MODE || "true",              // Allow public commands?
+    PUBLIC_MODE: process.env.PUBLIC_MODE || "false",              // Allow public commands?
     ALWAYS_ONLINE: process.env.ALWAYS_ONLINE || "false",        // Show bot as always online?
     AUTO_STATUS_REACT: process.env.AUTO_STATUS_REACT || "true", // React to status updates?
 };
