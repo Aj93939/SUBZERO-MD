@@ -21,7 +21,7 @@
   <img src="https://komarev.com/ghpvc/?username=SUBZERO-MD&label=VISITORS&style=flat-square&color=00ffff" />
 </p>
 
-> **Current Bot Version `3.2.0`**  
+> **Current Bot Version `3.5.0`**  
 
 ---
 
@@ -76,7 +76,7 @@ Dont forget to fork & star repo
   <div style="height: 10px;"></div>
   
   > **⚠️ OPTION TWO**
-  <a href='https://zaynixxd.biz.id/' target="_blank">
+  <a href='https://subzero-docs.vercel.app' target="_blank">
     <img src='https://img.shields.io/badge/PAIR_CODE_2-FF00AA?style=for-the-badge&logo=matrix&logoColor=white&labelColor=000000'/>
   </a>
   
@@ -185,5 +185,4 @@ Dont forget to fork & star repo
 <div align="center">
   <img src="https://github.com/mrfrankofcc/SUBZERO-MD/blob/main/assets/endwave.gif?raw=true" width="100%"/>
 </div>
-
 
